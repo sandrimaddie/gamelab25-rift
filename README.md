@@ -6,7 +6,7 @@ Every match is packed with frantic action, clever plays, and magical mayhem. Whe
 
 **Summon your god first to claim victory and eternal bragging rights!**
 
-![Game Screenshot](screenshots/screenshot4.png)
+![Game Screenshot](screenshot4.png)
 
 ## 🎮 Play the Game
 
@@ -32,9 +32,9 @@ _Click the image above to watch the trailer_
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot5.png)
-![Screenshot 5](screenshots/screenshot6.png)
-![Screenshot 6](screenshots/screenshot7.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+![Screenshot 4](screenshot5.png)
+![Screenshot 5](screenshot6.png)
+![Screenshot 6](screenshot7.png)
